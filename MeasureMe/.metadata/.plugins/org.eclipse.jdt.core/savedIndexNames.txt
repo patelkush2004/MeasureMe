@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\kushe\OneDrive\Documents\Java\MeasureMe\.metadata\.plugins\org.eclipse.jdt.core
+113558702.index
+2434062077.index
